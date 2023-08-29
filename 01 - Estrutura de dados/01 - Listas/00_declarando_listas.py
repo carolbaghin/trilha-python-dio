@@ -4,7 +4,7 @@ print(frutas)
 frutas = []
 print(frutas)
 
-letras = list("python")
+letras = list("python") #função na qual cada letra é um elemento
 print(letras)
 
 numeros = list(range(10))
